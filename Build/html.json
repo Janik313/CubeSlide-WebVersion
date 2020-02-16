@@ -1,7 +1,7 @@
 {
 "companyName": "Janik313",
-"productName": "Cube Slide",
-"productVersion": "3.0",
+"productName": "CubeSlide",
+"productVersion": "4.0",
 "dataUrl": "html.data.unityweb",
 "wasmCodeUrl": "html.wasm.code.unityweb",
 "wasmFrameworkUrl": "html.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.0f6"
+"unityVersion": "2019.3.1f1"
 }
